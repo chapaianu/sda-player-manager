@@ -1,0 +1,132 @@
+INFO  | 2019-06-23 12:45:47 | [main] playermanager.App (App.java:27) - main(): IN:
+INFO  | 2019-06-23 12:45:47 | [main] playermanager.App (App.java:31) - main(): OUT:
+DEBUG | 2019-06-23 12:47:57 | [main] playermanager.App (App.java:28) - main(): IN:
+DEBUG | 2019-06-23 12:47:57 | [main] playermanager.App (App.java:34) - main(): OUT:
+DEBUG | 2019-06-23 12:52:49 | [main] playermanager.App (App.java:28) - main(): IN:
+DEBUG | 2019-06-23 12:52:49 | [main] playermanager.App (App.java:43) - parseAllPlayers(): IN:
+DEBUG | 2019-06-23 12:52:50 | [main] playermanager.App (App.java:56) - parseAllPlayers(): OUT:
+DEBUG | 2019-06-23 12:52:50 | [main] playermanager.App (App.java:37) - main(): OUT:
+DEBUG | 2019-06-23 12:53:11 | [main] playermanager.App (App.java:28) - main(): IN:
+DEBUG | 2019-06-23 12:53:11 | [main] playermanager.App (App.java:43) - parseAllPlayers(): IN:
+DEBUG | 2019-06-23 12:53:11 | [main] playermanager.App (App.java:56) - parseAllPlayers(): OUT:
+DEBUG | 2019-06-23 12:53:11 | [main] playermanager.App (App.java:37) - main(): OUT:
+DEBUG | 2019-06-23 12:58:52 | [main] playermanager.App (App.java:28) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 12:58:52 | [main] playermanager.App (App.java:43) - parseAllPlayers(): IN:
+DEBUG | 2019-06-23 12:58:53 | [main] playermanager.App (App.java:56) - parseAllPlayers(): OUT:
+DEBUG | 2019-06-23 12:58:53 | [main] playermanager.App (App.java:37) - main(): a iesit !!!:
+DEBUG | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:45) - parseAllPlayers(): IN:
+INFO  | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:59) - Player: 1, player_1, null, null, null
+INFO  | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:59) - Player: 2, player_2, null, null, null
+INFO  | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:59) - Player: 3, player_3, null, null, null
+DEBUG | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:67) - parseAllPlayers(): OUT:
+DEBUG | 2019-06-23 13:23:08 | [main] playermanager.App (App.java:39) - main(): a iesit !!!:
+DEBUG | 2019-06-23 13:24:56 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 13:24:56 | [main] playermanager.App (App.java:45) - parseAllPlayers(): IN:
+INFO  | 2019-06-23 13:24:57 | [main] playermanager.App (App.java:59) - Player: 2, player_2, null, null, null
+INFO  | 2019-06-23 13:24:57 | [main] playermanager.App (App.java:59) - Player: 3, player_3, null, null, null
+DEBUG | 2019-06-23 13:24:57 | [main] playermanager.App (App.java:66) - parseAllPlayers(): OUT:
+DEBUG | 2019-06-23 13:24:57 | [main] playermanager.App (App.java:39) - main(): a iesit !!!:
+DEBUG | 2019-06-23 13:31:23 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 13:31:23 | [main] playermanager.App (App.java:45) - parseAllPlayers(): IN:
+INFO  | 2019-06-23 13:31:24 | [main] playermanager.App (App.java:60) - Player: 2, player_2, null, null, null
+INFO  | 2019-06-23 13:31:24 | [main] playermanager.App (App.java:60) - Player: 3, player_3, null, null, null
+DEBUG | 2019-06-23 13:31:24 | [main] playermanager.App (App.java:75) - parseAllPlayers(): OUT:
+DEBUG | 2019-06-23 13:31:24 | [main] playermanager.App (App.java:39) - main(): a iesit !!!:
+DEBUG | 2019-06-23 15:13:34 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:13:34 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:51) - getAllPlayers(): IN:
+DEBUG | 2019-06-23 15:15:52 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:15:52 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:59) - getAllPlayers(): IN:
+DEBUG | 2019-06-23 15:15:52 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:30) - getConnection(): IN
+DEBUG | 2019-06-23 15:15:52 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:42) - getConnection(): OUT:null
+DEBUG | 2019-06-23 15:16:44 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:16:44 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:59) - getAllPlayers(): IN:
+DEBUG | 2019-06-23 15:16:44 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:30) - getConnection(): IN
+DEBUG | 2019-06-23 15:16:45 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:42) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+DEBUG | 2019-06-23 15:18:05 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:18:05 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:59) - getAllPlayers(): IN:
+DEBUG | 2019-06-23 15:18:05 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:30) - getConnection(): IN
+DEBUG | 2019-06-23 15:18:06 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:42) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+INFO  | 2019-06-23 15:18:06 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:83) - Player: Player [id=1, accountName=player_1, firstName=null, lastName=null, birthDate=null]
+INFO  | 2019-06-23 15:18:06 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:83) - Player: Player [id=2, accountName=player_2, firstName=null, lastName=null, birthDate=null]
+INFO  | 2019-06-23 15:18:06 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:83) - Player: Player [id=3, accountName=player_3, firstName=null, lastName=null, birthDate=null]
+DEBUG | 2019-06-23 15:18:06 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:90) - parseAllPlayers(): OUT:
+INFO  | 2019-06-23 15:18:06 | [main] playermanager.App (App.java:36) - allPlayers: null
+DEBUG | 2019-06-23 15:18:06 | [main] playermanager.App (App.java:39) - main(): a iesit !!!:
+DEBUG | 2019-06-23 15:28:22 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:28:22 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:88) - getPlayer(): IN:
+DEBUG | 2019-06-23 15:28:22 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:31) - getConnection(): IN
+DEBUG | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:43) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+ERROR | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:104) - Exception while parsing players: Parameter index out of range (0 < 1 ).
+java.sql.SQLException: Parameter index out of range (0 < 1 ).
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.checkBounds(ClientPreparedStatement.java:1367) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.getCoreParameterIndex(ClientPreparedStatement.java:1383) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.setInt(ClientPreparedStatement.java:1571) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.sda.playermanager.dao.JdbcPlayerDao.getPlayer(JdbcPlayerDao.java:96) [classes/:?]
+	at com.sda.playermanager.App.main(App.java:35) [classes/:?]
+DEBUG | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:108) - getPlayer(): OUT:
+INFO  | 2019-06-23 15:28:23 | [main] playermanager.App (App.java:37) - Player 2: null
+DEBUG | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:88) - getPlayer(): IN:
+DEBUG | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:31) - getConnection(): IN
+DEBUG | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:43) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+ERROR | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:104) - Exception while parsing players: Parameter index out of range (0 < 1 ).
+java.sql.SQLException: Parameter index out of range (0 < 1 ).
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:89) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:63) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.checkBounds(ClientPreparedStatement.java:1367) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.getCoreParameterIndex(ClientPreparedStatement.java:1383) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.setInt(ClientPreparedStatement.java:1571) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.sda.playermanager.dao.JdbcPlayerDao.getPlayer(JdbcPlayerDao.java:96) [classes/:?]
+	at com.sda.playermanager.App.main(App.java:39) [classes/:?]
+DEBUG | 2019-06-23 15:28:23 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:108) - getPlayer(): OUT:
+INFO  | 2019-06-23 15:28:23 | [main] playermanager.App (App.java:41) - Player 10: null
+DEBUG | 2019-06-23 15:28:23 | [main] playermanager.App (App.java:44) - main(): a iesit !!!:
+DEBUG | 2019-06-23 15:28:47 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:28:47 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:88) - getPlayer(): IN:
+DEBUG | 2019-06-23 15:28:47 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:31) - getConnection(): IN
+DEBUG | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:43) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+ERROR | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:104) - Exception while parsing players: Unknown database 'playres'
+java.sql.SQLSyntaxErrorException: Unknown database 'playres'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.sda.playermanager.dao.JdbcPlayerDao.getPlayer(JdbcPlayerDao.java:97) [classes/:?]
+	at com.sda.playermanager.App.main(App.java:35) [classes/:?]
+DEBUG | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:108) - getPlayer(): OUT:
+INFO  | 2019-06-23 15:28:48 | [main] playermanager.App (App.java:37) - Player 2: null
+DEBUG | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:88) - getPlayer(): IN:
+DEBUG | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:31) - getConnection(): IN
+DEBUG | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:43) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+ERROR | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:104) - Exception while parsing players: Unknown database 'playres'
+java.sql.SQLSyntaxErrorException: Unknown database 'playres'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:955) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1005) ~[mysql-connector-java-8.0.16.jar:8.0.16]
+	at com.sda.playermanager.dao.JdbcPlayerDao.getPlayer(JdbcPlayerDao.java:97) [classes/:?]
+	at com.sda.playermanager.App.main(App.java:39) [classes/:?]
+DEBUG | 2019-06-23 15:28:48 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:108) - getPlayer(): OUT:
+INFO  | 2019-06-23 15:28:48 | [main] playermanager.App (App.java:41) - Player 10: null
+DEBUG | 2019-06-23 15:28:48 | [main] playermanager.App (App.java:44) - main(): a iesit !!!:
+DEBUG | 2019-06-23 15:29:07 | [main] playermanager.App (App.java:30) - main(): a intrat in metoda:
+DEBUG | 2019-06-23 15:29:07 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:88) - getPlayer(): IN:
+DEBUG | 2019-06-23 15:29:07 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:31) - getConnection(): IN
+DEBUG | 2019-06-23 15:29:07 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:43) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+INFO  | 2019-06-23 15:29:08 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:101) - Player: Player [id=2, accountName=player_2, firstName=null, lastName=null, birthDate=null]
+DEBUG | 2019-06-23 15:29:08 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:108) - getPlayer(): OUT:
+INFO  | 2019-06-23 15:29:08 | [main] playermanager.App (App.java:37) - Player 2: Player [id=2, accountName=player_2, firstName=null, lastName=null, birthDate=null]
+DEBUG | 2019-06-23 15:29:08 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:88) - getPlayer(): IN:
+DEBUG | 2019-06-23 15:29:08 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:31) - getConnection(): IN
+DEBUG | 2019-06-23 15:29:08 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:43) - getConnection(): OUT:com.mysql.cj.jdbc.ConnectionImpl@2e1d27ba
+DEBUG | 2019-06-23 15:29:08 | [main] dao.JdbcPlayerDao (JdbcPlayerDao.java:108) - getPlayer(): OUT:
+INFO  | 2019-06-23 15:29:08 | [main] playermanager.App (App.java:41) - Player 10: null
+DEBUG | 2019-06-23 15:29:08 | [main] playermanager.App (App.java:44) - main(): a iesit !!!:
